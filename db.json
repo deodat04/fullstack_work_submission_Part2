@@ -22,7 +22,7 @@
       "id": "8404",
       "content": "ddd",
       "date": "2024-03-14T09:28:49.970Z",
-      "important": false
+      "important": true
     },
     {
       "id": "27cf",
@@ -40,7 +40,13 @@
       "id": "602d",
       "content": "test2",
       "date": "2024-03-14T09:31:42.428Z",
-      "important": true
+      "important": false
+    },
+    {
+      "id": "2226",
+      "content": "flemme",
+      "date": "2024-03-14T10:58:11.501Z",
+      "important": false
     }
   ]
 }
