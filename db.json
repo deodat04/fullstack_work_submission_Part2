@@ -34,13 +34,13 @@
       "id": "a906",
       "content": "test",
       "date": "2024-03-14T09:30:30.647Z",
-      "important": true
+      "important": false
     },
     {
       "id": "602d",
       "content": "test2",
       "date": "2024-03-14T09:31:42.428Z",
-      "important": false
+      "important": true
     }
   ]
 }
